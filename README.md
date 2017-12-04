@@ -7,5 +7,5 @@ people born between 1900 and deceased before 2000, and find
 the year with the most amount of people alive.
 If you don't have a linux terminal available, check out the png output.
 
-For the second problem, I just uploaded by code and exported MySql database.
+For the second problem, I just uploaded my code and exported MySql database.
  
